@@ -1,0 +1,19 @@
+{
+  "name": "com.toolbox.ultranyan",
+  "version": "1.0.0",
+  "description": "My toolbox",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ultraartgtx/unity-toolbox-ultranyan.git"
+  },
+  "author": "ultraartgtx <ultraartgtxgmail.com> (https://github.com/ultraartgtx)",
+  "keywords": [
+    "upm",
+    "git",
+    "editor"
+  ],
+  "displayName": "Ultranyan Tollbox",
+  "unity": "2020.3",
+  "type": "library"
+}
