@@ -1,6 +1,6 @@
 {
   "name": "com.toolbox.ultranyan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My toolbox",
   "license": "MIT",
   "repository": {
@@ -15,5 +15,5 @@
   ],
   "displayName": "Ultranyan Tollbox",
   "unity": "2020.3",
-  "type": "library"
+  "type": "template"
 }

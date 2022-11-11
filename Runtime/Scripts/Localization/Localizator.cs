@@ -5,7 +5,7 @@ using UnityEngine;
 public class Localizator
 {
     public static Language activeLanguage;
-
+    
     private static readonly Dictionary<Language, Dictionary<string, string>> _localizedTexts =
         new Dictionary<Language, Dictionary<string, string>>
         {
